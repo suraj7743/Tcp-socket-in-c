@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "ifaddrs.h": "c"
+    }
+}
